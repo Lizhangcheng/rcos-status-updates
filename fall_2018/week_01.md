@@ -1,15 +1,10 @@
 ## Last Week's Accomplishments
-ll
-> In this section, you can write about what you accomplished in the previous week.
 
-> Examples:
-> Bug fixes, Features added, Links to Issues, Links to Pull-Requests, Lightning Talks, Bonus Sessions
+Last week, I started to using flask, the micro webframework and continue learning to manipulate the date with database
 
 ## This Week's Plan
 
-> In this section, you can write about what you have planned for next week.
-
-> Examples: New Bugs to be fixed, Design choices
+this week, I hope that I can started to learn how to receive data from the web and change it
 
 ## Anything Blocking?
 
